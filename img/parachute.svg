@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="54px" viewBox="0 0 50 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>72DB4EFB-0B62-4830-8933-DBA83DF6890F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="DESIGNS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pages-|-Design-01" transform="translate(-79.000000, -1184.000000)" stroke-width="2" stroke="#535353">
+            <g id="D01_SECTION-3-|-Icon-Summary" transform="translate(0.000000, 1105.000000)">
+                <g id="parachute-icon" transform="translate(80.000000, 80.000000)">
+                    <g id="Parachute">
+                        <path d="M48,24 C48,10.745166 37.254834,0 24,0 C10.745166,0 0,10.745166 0,24 C0,20.6862915 2.6862915,18 6,18 C9.3137085,18 12,20.6862915 12,24 L12,24 C12,20.6862915 14.6862915,18 18,18 C21.3137085,18 24,20.6862915 24,24 C24,20.6862915 26.6862915,18 30,18 C33.3137085,18 36,20.6862915 36,24 C36,20.6862915 38.6862915,18 42,18 C45.3137085,18 48,20.6862915 48,24 L48,24 Z" id="Oval-1022"></path>
+                        <circle id="Oval-1026" cx="24.5" cy="46.5" r="2.5"></circle>
+                        <path d="M27,52 L31,48" id="Line"></path>
+                        <path d="M18,52 L22,48" id="Line-280" transform="translate(20.000000, 50.000000) scale(-1, 1) translate(-20.000000, -50.000000) "></path>
+                        <path d="M2.00000001,27 L19.2173745,43.2692779" id="Path-2429"></path>
+                        <path d="M29.4943211,27 L46.7116956,43.2692779" id="Path-2429" transform="translate(38.103008, 35.134639) scale(-1, 1) translate(-38.103008, -35.134639) "></path>
+                        <path d="M12.6258957,26.3556054 L22.2108584,40.8520585" id="Path-2431"></path>
+                        <path d="M26.4999994,26.3556054 L36.084962,40.8520585" id="Path-2431" transform="translate(31.292481, 33.603832) scale(-1, 1) translate(-31.292481, -33.603832) "></path>
+                        <path d="M23.9911083,22.9999973 L23.9911083,37.7549954" id="Path-2433"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

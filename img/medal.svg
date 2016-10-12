@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="49px" viewBox="0 0 48 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>B5C1631D-4CA9-447C-8399-160D2137BA03</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="DESIGNS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pages-|-Design-01" transform="translate(-469.000000, -1187.000000)" stroke-width="2" stroke="#535353">
+            <g id="D01_SECTION-3-|-Icon-Summary" transform="translate(0.000000, 1105.000000)">
+                <g id="medal-icon" transform="translate(470.000000, 83.000000)">
+                    <g id="Prizemedalion">
+                        <circle id="Oval-810" cx="23" cy="33" r="14"></circle>
+                        <circle id="Oval-811" cx="23" cy="33" r="10"></circle>
+                        <polyline id="Path-1890" points="20.2663117 29.378475 23 27.5941876 23 38"></polyline>
+                        <path d="M27,19 L38,0" id="Line"></path>
+                        <path d="M8,19 L19,0" id="Line" transform="translate(13.500000, 9.500000) scale(-1, 1) translate(-13.500000, -9.500000) "></path>
+                        <path d="M0,24 L11,5" id="Line" transform="translate(5.500000, 14.500000) scale(-1, 1) translate(-5.500000, -14.500000) "></path>
+                        <path d="M35,24 L46,5" id="Line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

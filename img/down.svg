@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="5px" viewBox="0 0 9 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>A8F2A2BE-02EE-45F7-800C-224047160474</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="DESIGNS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Pages-|-Design-01" transform="translate(-813.000000, -51.000000)" stroke="#969695">
+            <g id="D01_SECTION-1-|-Header">
+                <g id="Nav-Bar-|-Static" transform="translate(79.000000, 38.000000)">
+                    <g id="Nav" transform="translate(567.000000, 6.000000)">
+                        <g id="down-icon" transform="translate(167.000000, 7.000000)">
+                            <path d="M0.5,0.5 L4.5,4.5" id="Line"></path>
+                            <path d="M4.5,0.5 L8.5,4.5" id="Line-Copy" transform="translate(6.500000, 2.500000) scale(-1, 1) translate(-6.500000, -2.500000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
